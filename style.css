@@ -1,0 +1,35 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+    color: white;
+    background-color: rgb(6, 32, 65);
+    margin: 3rem;
+    padding: 3rem;
+    font-size: 1.5rem;
+}
+h1 {
+    font-size: 50px;
+}
+
+img {
+   width: 300px;
+   height: 300px; 
+}
+
+.github-button {
+    padding: 10px 20px;
+    font-size: 2rem;
+    color: #fff;
+    background-color: #24292e; 
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+.github-button:hover {
+    background-color: #444;
+}
+
+div {
+    padding: 1rem;
+}
